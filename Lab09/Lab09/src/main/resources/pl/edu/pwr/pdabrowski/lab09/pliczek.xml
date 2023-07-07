@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+            <items>
+                <karta_informacyjna>
+                    <link>https</link>
+                    <id>OS_NT004422CE</id>
+                    <data>2023-05-26</data>
+                    <skrot_organizacja>WOS</skrot_organizacja>
+                    <komponent_srodowiska>decyzje środowiskowe</komponent_srodowiska>
+                    <typ_karty>A</typ_karty>
+                    <rodzaj_karty>wnioski o wydanie decyzji</rodzaj_karty>
+                    <nr_wpisu>87944</nr_wpisu>
+                    <znak_sprawy>KSr-V.6220.1.135.2023</znak_sprawy>
+                    <dane_wnioskodawcy>Jakon Nowa 1 SOWIA 4, 62-080 TARNOWO PODGÓRNE</dane_wnioskodawcy>
+                </karta_informacyjna>
+                <karta_informacyjna>
+                    <link>https</link>
+                    <id>OS_NT00441FDE</id>
+                    <data>2023-05-23</data>
+                    <skrot_organizacja>WOS</skrot_organizacja>
+                    <komponent_srodowiska>decyzje środowiskowe</komponent_srodowiska>
+                    <typ_karty>A</typ_karty>
+                    <rodzaj_karty>wnioski o wydanie decyzji</rodzaj_karty>
+                    <nr_wpisu>87908</nr_wpisu>
+                    <znak_sprawy>KSr-V.6220.1.134.2023</znak_sprawy>
+                    <dane_wnioskodawcy>EDICA Sp. z o.o. FORTECZNA 3, 61-362 POZNAŃ</dane_wnioskodawcy>
+                </karta_informacyjna>
+            </items>
